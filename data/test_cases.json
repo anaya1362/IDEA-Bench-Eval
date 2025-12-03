@@ -1,0 +1,44 @@
+{
+  "TaskA": {
+    "Subtask1": [
+      {
+        "case_id": "case1",
+        "prompt": "You are evaluating a generated product card for an e-commerce app.",
+        "questions": [
+          "Is the main product clearly visible?",
+          "Is there exactly one primary focal object?",
+          "Is the background not overly cluttered?",
+          "Is the text legible at normal viewing size?",
+          "Is the color scheme consistent with the description?",
+          "Does the layout look professional overall?"
+        ]
+      },
+      {
+        "case_id": "case2",
+        "prompt": "You are evaluating a mobile app login screen design.",
+        "questions": [
+          "Is the input field layout clear?",
+          "Is there a visible primary call-to-action button?",
+          "Is the text contrast sufficient for readability?",
+          "Is there no critical information cut off?",
+          "Is the overall composition balanced?",
+          "Would this be acceptable for a production app?"
+        ]
+      }
+    ],
+    "Subtask2": [
+      {
+        "case_id": "case3",
+        "prompt": "You are evaluating a hero banner for a landing page.",
+        "questions": [
+          "Is there a clear main subject or message?",
+          "Is the headline area visually emphasized?",
+          "Is the background not distracting from the main subject?",
+          "Is the typography consistent?",
+          "Do colors feel coherent with a modern web design?",
+          "Would this hero section be usable on a real website?"
+        ]
+      }
+    ]
+  }
+}

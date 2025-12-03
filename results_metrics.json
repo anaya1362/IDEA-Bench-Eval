@@ -1,0 +1,7 @@
+{
+  "parse_fail_old": 3,
+  "parse_fail_new": 0,
+  "calls_old": 9,
+  "calls_new": 15,
+  "runtime_seconds": 15.014000177383423
+}

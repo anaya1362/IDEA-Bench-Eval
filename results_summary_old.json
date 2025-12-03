@@ -1,0 +1,16 @@
+{
+  "TaskA": {
+    "subtasks": {
+      "Subtask1": {
+        "score_percent": 33.33,
+        "avg_consistency_percent": 100.0
+      },
+      "Subtask2": {
+        "score_percent": 38.89,
+        "avg_consistency_percent": 100.0
+      }
+    },
+    "score_percent": 36.11,
+    "avg_consistency_percent": 100.0
+  }
+}
