@@ -48,3 +48,11 @@ evaluation_old.py    # Baseline regex-based evaluation
 evaluation_new.py    # JSON-based improved evaluation
 aggregator.py        # Aggregates scores and consistency
 run_experiment.py    # Runs both pipelines and prints comparisons
+```
+
+## Results
+
+<img width="472" height="375" alt="Screenshot 2025-12-04 at 11 50 05 AM" src="https://github.com/user-attachments/assets/82f69c42-3fdb-453d-9fc3-4930fc7f1c52" />
+
+<img width="468" height="373" alt="Screenshot 2025-12-04 at 11 50 41 AM" src="https://github.com/user-attachments/assets/734c2390-395b-4ba6-84af-72c2a83a6324" />
+
